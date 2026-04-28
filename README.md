@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://github.com/danial-zahid">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:danialmirza64@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/danial-zahid/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/danial-zahid/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -25,9 +25,7 @@
 ### ⚡ Tech Stack & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,numpy,opencv&theme=dark" alt="Skill Icons" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,numpy,opencv&theme=dark" />
 </div>
 
 ---
@@ -35,24 +33,24 @@
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **House Price Prediction** | Predicts house prices using regression models with preprocessing and evaluation (MAE, RMSE). | Python, scikit-learn |
+|--------|------------|------------|
+| **House Price Prediction** | Regression model to predict house prices with preprocessing and evaluation (MAE, RMSE). | Python, scikit-learn |
 | **X-ray Image Analysis** | CNN-based model for medical image classification. | PyTorch, OpenCV |
-| **Data Analysis Projects** | Data visualization and exploratory analysis. | Pandas, Matplotlib |
+| **Data Analysis Projects** | Exploratory data analysis and visualization. | Pandas, Matplotlib |
 
 ---
 
 ### 📊 GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/danial-zahid">
-    <img src="https://github-readme-stats.vercel.app/api?username=danial-zahid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="195" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/danial-zahid">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danial-zahid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="195" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=danial-zahid&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danial-zahid&layout=compact&theme=radical&hide_border=true" height="180" />
 </div>
 
+---
+
+### 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/danial-zahid/danial-zahid/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/danial-zahid/danial-zahid/output/github-contribution-grid-snake.svg" />
 </div>
