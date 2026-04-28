@@ -52,3 +52,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danial-zahid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="195" alt="Top Languages" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/danial-zahid/danial-zahid/output/github-contribution-grid-snake-dark.svg" />
+</div>
