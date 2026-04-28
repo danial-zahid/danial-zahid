@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
   workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
 
 jobs:
   build:
@@ -15,12 +15,6 @@ jobs:
           github_user_name: danial-zahid
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: dist/
 
       - uses: actions/upload-pages-artifact@v3
         with:
